@@ -24,12 +24,15 @@ Product.init(
       allowNull: false,
       validate: {
         isDecimal: true
-      }
+      },
     },
     stock: {
       type: DataTypes.INTEGER,
       allowNull: false,
       set: 10,
+      validate: {
+        isNumeric: true
+      },
     }
   },
   {
