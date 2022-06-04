@@ -8,7 +8,6 @@
 <li><a href="#license">License</a></li>
   <li><a href="#installation">Installation</a></li>
   <li><a href="#usage">Usage</a></li>
-  <li><a href="#contributors">Contributors</a></li>
   <li><a href="#testing">Testing</a></li>
   <li><a href="#questions">Questions</a></li>
 
@@ -28,9 +27,6 @@ open the terminal and type npm i. Log into mysql and run the schema in the termi
 
 ## Usage
 After completing the installation process described above, type npm start in the terminal. You can then use insomnia to test out the routes.
-
-## Contributors
-This program uses some pre-provided code from the UT Austin Bootcamp. I also collaborated on syntaxd and ideas with a few of my peers in the coding bootcamp, but all code not provided by the bootcamp was written by me.
 
 ## Testing
 Set up your database and tables, run seeds, and try out routes in insomnia!
