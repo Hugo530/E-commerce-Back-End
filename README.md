@@ -38,4 +38,4 @@ Set up your database and tables, run seeds, and try out routes in insomnia!
 ## Questions
 Author: [Hugo Sanchez](https://github.com/Hugo530)
 
-You can reach me with any questions at my email: [ryan.thomas@utexas.edu](mailto:hugoarmandosanchez530@gmail.com)
+You can reach me with any questions at my email: [hugoarmandosanchez530@gmail.com](mailto:hugoarmandosanchez530@gmail.com)
